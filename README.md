@@ -16,7 +16,7 @@ Desenvolvido como aplicação prática dos estudos em **Análise e Desenvolvimen
 | **Privacidade** | Máscara de Zona | Respeitar a intimidade nos quartos |
 
 ## 📁 Arquivos do Projeto
-* [Acessar Planilha Completa (CSV)](/Plano_de_Monitoramento.csv)
+* [Acessar Planilha Completa (CSV)](Plano%20de%20Monitoramento.csv)
 
 ---
 > *Projeto desenvolvido por Kleo - Estudante de ADS Gran Faculdade*
